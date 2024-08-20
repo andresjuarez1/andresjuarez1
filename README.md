@@ -3,7 +3,7 @@
  
 ### Hi there 👋 I am Andres Juarez
 
-> I am a hardworking individual who is dedicated towards his goals.
+> Memento mori.
 <br />
 
 - 🌱 &nbsp;I'm a software engineer
