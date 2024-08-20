@@ -40,7 +40,7 @@
   <img  alt="tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img  alt="java" src ="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img  alt="python" src ="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-  <img  alt="dart" src ="https://img.shields.io/badge/Dart-14354C?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img  alt="dart" src ="https://img.shields.io/badge/Dart-174AAD?style=for-the-badge&logo=dart&logoColor=white"/>
   <img  alt="bootstrap" src ="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
  
 </div>
