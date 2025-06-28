@@ -13,10 +13,11 @@
 - 📫 How to reach me **andresjuarez0627@gmail.com**
 <br><br><br><br>
 
-
+<p align="center">
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i>
+</p>
  
 <p>
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andresjuarez1&langs_count=10&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="thenuka" />
 </p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=andresjuarez1&show_icons=true&locale=en&theme=chartreuse-dark" alt="thenuka" width="410"/>
 </p>
